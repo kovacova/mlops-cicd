@@ -3,7 +3,7 @@ name: deploy-model-training-pipeline
 on:
   push:
     branches:
-      - main
+      - tina
   pull_request:
     branches:
       - main
