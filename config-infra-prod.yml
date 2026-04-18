@@ -19,4 +19,4 @@ variables:
 
   # For pipeline reference
   resource_group: default_resource_group
-  aml_workspace: azure-ml-workspace
+  aml_workspace: tina-ml-workspace

@@ -59,9 +59,9 @@ jobs:
       goal: maximize
       primary_metric: Accuracy
     limits:
-      max_total_trials: 20
-      max_concurrent_trials: 10
-      timeout: 7200
+      max_total_trials: 8
+      max_concurrent_trials: 4
+      timeout: 1800
 
   register_model:
     name: register_model
